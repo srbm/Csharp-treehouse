@@ -28,7 +28,7 @@ namespace TreehouseDefense
 
     public int DistanceTo(Point point)
     {
-      return DistanceTo(poin.X, point.Y);
+      return DistanceTo(point.X, point.Y);
     }
   }
 
